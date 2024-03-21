@@ -1,0 +1,109 @@
+Turbo Assembler  Version 4.1  Copyright (c) 1988, 1996 Borland International
+
+Assembling file:   PROJEC~1.ASM
+**Error** PROJEC~1.ASM(77) Name must come first
+**Error** PROJEC~1.ASM(78) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(81) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(83) Unmatched ENDP: PRINTSTRING
+**Error** PROJEC~1.ASM(86) Name must come first
+**Error** PROJEC~1.ASM(87) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(92) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(94) Unmatched ENDP: READCHR
+**Error** PROJEC~1.ASM(97) Name must come first
+**Error** PROJEC~1.ASM(98) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(104) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(106) Unmatched ENDP: SETCURSOREPOSITION
+**Error** PROJEC~1.ASM(109) Name must come first
+**Error** PROJEC~1.ASM(110) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(117) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(119) Unmatched ENDP: DELETECHARACTER
+**Error** PROJEC~1.ASM(122) Name must come first
+**Error** PROJEC~1.ASM(123) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(129) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(131) Unmatched ENDP: DRAWCHARACTER
+**Error** PROJEC~1.ASM(134) Name must come first
+**Error** PROJEC~1.ASM(135) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(140) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(142) Unmatched ENDP: READSCREENCHR
+**Error** PROJEC~1.ASM(146) Name must come first
+**Error** PROJEC~1.ASM(147) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(165) Undefined symbol: CHANGEDIR
+**Error** PROJEC~1.ASM(167) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(169) Unmatched ENDP: CHECKSCRNCHR
+**Error** PROJEC~1.ASM(172) Name must come first
+**Error** PROJEC~1.ASM(173) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(178) Undefined symbol: DRAWLEFTFENCE
+**Error** PROJEC~1.ASM(181) Undefined symbol: DRAWRIGHTFENCE
+**Error** PROJEC~1.ASM(187) Undefined symbol: SETCURSOREPOSITION
+**Error** PROJEC~1.ASM(188) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(190) Unmatched ENDP: CHANGEDIR
+**Error** PROJEC~1.ASM(193) Name must come first
+**Error** PROJEC~1.ASM(194) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(200) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(202) Unmatched ENDP: DELAY
+**Error** PROJEC~1.ASM(206) Name must come first
+**Error** PROJEC~1.ASM(207) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(223) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(225) Unmatched ENDP: CALCULATECOORDS
+**Error** PROJEC~1.ASM(227) Name must come first
+**Error** PROJEC~1.ASM(228) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(234) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(236) Unmatched ENDP: FENCE_CURSOR_LOCATION
+**Error** PROJEC~1.ASM(238) Name must come first
+**Error** PROJEC~1.ASM(239) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(245) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(247) Unmatched ENDP: DRAW_TAV
+**Error** PROJEC~1.ASM(249) Name must come first
+**Error** PROJEC~1.ASM(251) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(271) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(273) Unmatched ENDP: RANDOM
+**Error** PROJEC~1.ASM(276) Name must come first
+**Error** PROJEC~1.ASM(277) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(285) Undefined symbol: FENCE_CURSOR_LOCATION
+**Error** PROJEC~1.ASM(286) Undefined symbol: DRAW_TAV
+**Error** PROJEC~1.ASM(297) Undefined symbol: RANDOM
+**Error** PROJEC~1.ASM(300) Undefined symbol: FENCE_CURSOR_LOCATION
+**Error** PROJEC~1.ASM(301) Undefined symbol: DRAW_TAV
+**Error** PROJEC~1.ASM(303) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(305) Unmatched ENDP: DRAW_FENCE
+**Error** PROJEC~1.ASM(308) Name must come first
+**Error** PROJEC~1.ASM(309) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(313) Undefined symbol: DRAW_FENCE
+**Error** PROJEC~1.ASM(314) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(316) Unmatched ENDP: DRAWLEFTFENCE
+**Error** PROJEC~1.ASM(319) Name must come first
+**Error** PROJEC~1.ASM(320) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(324) Undefined symbol: DRAW_FENCE
+**Error** PROJEC~1.ASM(325) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(327) Unmatched ENDP: DRAWRIGHTFENCE
+**Error** PROJEC~1.ASM(331) Name must come first
+**Error** PROJEC~1.ASM(332) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(348) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(350) Unmatched ENDP: CALCULATEENDTIME
+**Error** PROJEC~1.ASM(352) Name must come first
+**Error** PROJEC~1.ASM(353) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(366) Undefined symbol: PRINTNUMBER
+**Error** PROJEC~1.ASM(367) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(369) Unmatched ENDP: CHECKENDTIME
+**Error** PROJEC~1.ASM(372) Name must come first
+**Error** PROJEC~1.ASM(373) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(390) Illegal instruction for currently selected processor(s)
+**Error** PROJEC~1.ASM(392) Unmatched ENDP: PRINTNUMBER
+**Error** PROJEC~1.ASM(403) Undefined symbol: PRINTSTRING
+**Error** PROJEC~1.ASM(407) Undefined symbol: PRINTSTRING
+**Error** PROJEC~1.ASM(410) Undefined symbol: READCHR
+**Error** PROJEC~1.ASM(423) Undefined symbol: READCHR
+**Error** PROJEC~1.ASM(429) Undefined symbol: SETCURSOREPOSITION
+**Error** PROJEC~1.ASM(432) Undefined symbol: DRAWCHARACTER
+**Error** PROJEC~1.ASM(435) Undefined symbol: READCHR
+**Error** PROJEC~1.ASM(439) Undefined symbol: CALCULATEENDTIME
+**Error** PROJEC~1.ASM(446) Undefined symbol: DELETECHARACTER
+**Error** PROJEC~1.ASM(448) Undefined symbol: CALCULATECOORDS
+**Error** PROJEC~1.ASM(449) Undefined symbol: CHECKENDTIME
+**Error** PROJEC~1.ASM(452) Undefined symbol: SETCURSOREPOSITION
+**Error** PROJEC~1.ASM(454) Too many errors or warnings
+Error messages:    101
+Warning messages:  None
+Passes:            1
+Remaining memory:  455k
+
